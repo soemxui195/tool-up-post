@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "github.com/tool-up-post/static/css/main.e1ab21f6.chunk.css",
+    "main.js": "github.com/tool-up-post/static/js/main.abd2e39e.chunk.js",
+    "main.js.map": "github.com/tool-up-post/static/js/main.abd2e39e.chunk.js.map",
+    "runtime-main.js": "github.com/tool-up-post/static/js/runtime-main.ec4b0eaa.js",
+    "runtime-main.js.map": "github.com/tool-up-post/static/js/runtime-main.ec4b0eaa.js.map",
+    "static/css/2.35f98baf.chunk.css": "github.com/tool-up-post/static/css/2.35f98baf.chunk.css",
+    "static/js/2.9162f01c.chunk.js": "github.com/tool-up-post/static/js/2.9162f01c.chunk.js",
+    "static/js/2.9162f01c.chunk.js.map": "github.com/tool-up-post/static/js/2.9162f01c.chunk.js.map",
+    "index.html": "github.com/tool-up-post/index.html",
+    "precache-manifest.0657a1d2680bb45d951d1997041a0998.js": "github.com/tool-up-post/precache-manifest.0657a1d2680bb45d951d1997041a0998.js",
+    "service-worker.js": "github.com/tool-up-post/service-worker.js",
+    "static/css/2.35f98baf.chunk.css.map": "github.com/tool-up-post/static/css/2.35f98baf.chunk.css.map",
+    "static/css/main.e1ab21f6.chunk.css.map": "github.com/tool-up-post/static/css/main.e1ab21f6.chunk.css.map",
+    "static/js/2.9162f01c.chunk.js.LICENSE": "github.com/tool-up-post/static/js/2.9162f01c.chunk.js.LICENSE",
+    "static/media/style.scss": "github.com/tool-up-post/static/media/bg.a95326d2.jpeg",
+    "static/media/logo.png": "github.com/tool-up-post/static/media/logo.7eb6f8d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec4b0eaa.js",
+    "static/css/2.35f98baf.chunk.css",
+    "static/js/2.9162f01c.chunk.js",
+    "static/css/main.e1ab21f6.chunk.css",
+    "static/js/main.abd2e39e.chunk.js"
+  ]
+}
